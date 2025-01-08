@@ -5,14 +5,19 @@ I’m a Master’s student in Electrical Engineering with experience in algorith
 💡 What You’ll Find on My GitHub:
 
 Python Projects: Machine Learning, data analysis, and automation scripts.
+
 Simulations & Signal Processing: Optimized scripts for solving complex engineering challenges.
+
 Web Development: Practical and functional applications built with Django.
 
 ⚙️ Technical Skills:
 
 Programming: Python, C.
+
 Tools: Visual Studio, Power BI, Eagle, AutoCAD, Microsoft Office.
+
 Databases: SQL.
+
 Web Framework: Django.
 
  <div>
