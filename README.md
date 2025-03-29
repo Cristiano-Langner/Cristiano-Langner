@@ -14,31 +14,30 @@
  
   ##
  
-👨‍🔬 Engineer in Training | Passionate About Technology and Data
+🚀 Data & Software Engineer | Automation | Machine Learning
 
-I’m a Master’s student in Electrical Engineering with experience in algorithm development, predictive modeling, and systems integration. My expertise spans from advanced simulations to hands-on projects in hardware design and solar energy systems. Currently, I’m diving into the world of data as a Data Analysis Intern, focusing on BI, dashboards, and Data-Driven solutions.
-  
-  ##
- 
-💡 What You’ll Find on My GitHub:
+MSc in Electrical Engineering with a strong focus on data analysis, automation, and predictive modeling. Passionate about leveraging Python, APIs, and machine learning to optimize decision-making and system efficiency. Experienced in algorithm development, signal processing, and interactive dashboards for data-driven insights.
 
-Python Projects: Machine Learning, data analysis, and automation scripts.
+🔹 Tech Stack & Skills
+Programming: Python, C
 
-Simulations & Signal Processing: Optimized scripts for solving complex engineering challenges.
+Data & Automation: Pandas, NumPy, SQL, Power BI, DAX, M
 
-Web Development: Practical and functional applications built with Django.
-  
-  ##
- 
-⚙️ Technical Skills:
+Machine Learning & Signal Processing: SciPy, Scikit-learn, TensorFlow
 
-Programming: Python, C.
+Web Development: Django, Dash, Streamlit
 
-Tools: Visual Studio, Power BI, Eagle, AutoCAD, Microsoft Office.
+Embedded Systems & Hardware: PCB design (Eagle), microcontrollers
 
-Databases: SQL.
+APIs & System Integration: REST APIs, automation scripts
 
-Web Framework: Django.
+🔹 What I Do
+✔ Automate data collection and analysis with Python & APIs
+✔ Build interactive dashboards for decision-making
+✔ Develop predictive models & signal processing algorithms
+✔ Work with electrical systems, IoT, and hardware development
+
+💡 Always looking for new challenges and projects where I can apply engineering, software development, and data science to create innovative and efficient solutions.
   
   ##
  
