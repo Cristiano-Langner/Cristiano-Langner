@@ -32,9 +32,13 @@ Embedded Systems & Hardware: PCB design (Eagle), microcontrollers
 APIs & System Integration: REST APIs, automation scripts
 
 🔹 What I Do
+
 ✔ Automate data collection and analysis with Python & APIs
+
 ✔ Build interactive dashboards for decision-making
+
 ✔ Develop predictive models & signal processing algorithms
+
 ✔ Work with electrical systems, IoT, and hardware development
 
 💡 Always looking for new challenges and projects where I can apply engineering, software development, and data science to create innovative and efficient solutions.
