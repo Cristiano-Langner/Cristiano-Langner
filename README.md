@@ -1,7 +1,6 @@
 <div>
   <a href="https://github.com/Cristiano-Langner">
-    <img height="180em" src="https://github-readme-stats.anuraghazra.com/api?username=Cristiano-Langner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=Cristiano-Langner&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cristiano-Langner&theme=dracula" />
   </a>
 </div>
 <div style="display: inline-block"><br>
