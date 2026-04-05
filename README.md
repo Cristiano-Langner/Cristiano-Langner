@@ -1,14 +1,19 @@
 <div>
   <a href="https://github.com/Cristiano-Langner">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cristiano-Langner&theme=dracula" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cristiano-Langner&theme=dracula" />
   </a>
 </div>
-<div style="display: inline-block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="Databricks" height="30" width="40" src="https://www.svgrepo.com/show/330261/databricks.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/374093/sql.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
-</div>
+<table id="icon-table">
+  <tr>
+    <td align="center" bgcolor="#f6f8fa">
+      <img align="center" alt="Python" height="30" width="40" src="https://skillicons.dev/icons?i=python">
+      <img align="center" alt="Databricks" height="30" width="40" src="https://www.svgrepo.com/show/330261/databricks.svg">
+      <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/374093/sql.svg">
+      <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
+    </td>
+  </tr>
+</table>
  
   ##
  
