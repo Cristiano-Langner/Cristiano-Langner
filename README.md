@@ -1,15 +1,14 @@
- <div>
+<div>
   <a href="https://github.com/Cristiano-Langner">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cristiano-Langner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cristiano-Langner&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cristiano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cristiano-jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Cristiano-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-  <img align="center" alt="Cristiano-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Cristiano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cristiano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="180em" src="https://github-readme-stats.anuraghazra.com/api?username=Cristiano-Langner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.anuraghazra.com/api/top-langs/?username=Cristiano-Langner&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+<div style="display: inline-block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Databricks" height="30" width="40" src="https://www.svgrepo.com/show/330261/databricks.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/374093/sql.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=c">
 </div>
  
   ##
