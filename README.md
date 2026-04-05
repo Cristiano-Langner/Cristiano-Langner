@@ -14,34 +14,17 @@
  
   ##
  
-🚀 Data & Software Engineer | Automation | Machine Learning
+Market Intelligence Analyst and Data Engineer with a solid background in building analytical ecosystems—from scalable data architecture to strategic insights. Currently at FIESC, I focus on developing complex solutions using Power BI, SQL, and Python to support decision-making and AI-driven initiatives.
 
-MSc in Electrical Engineering with a strong focus on data analysis, automation, and predictive modeling. Passionate about leveraging Python, APIs, and machine learning to optimize decision-making and system efficiency. Experienced in algorithm development, signal processing, and interactive dashboards for data-driven insights.
+Specialist in modern data architectures, including Databricks and the Medallion framework (Bronze, Silver, Gold). I bridge industry experience with academic research (Master’s at UFSC in Neural Network Optimization), focusing on process automation and efficient data pipelines that transform raw volumes into commercial and financial intelligence.
 
-🔹 Tech Stack & Skills
-Programming: Python, C
+Data Engineering: Databricks, Medallion Architecture, Python (Pandas/NumPy), SQL, and ETL/ELT pipeline automation.
 
-Data & Automation: Pandas, NumPy, SQL, Power BI, DAX, M
+BI & Analytics: Power BI (Advanced DAX, Power Query), Dimensional Modeling, and UX for data visualization.
 
-Machine Learning & Signal Processing: SciPy, Scikit-learn, TensorFlow
+Strategy & Business: KPI definition, profitability analysis, time series, and market intelligence.
 
-Web Development: Django, Dash, Streamlit
-
-Embedded Systems & Hardware: PCB design (Eagle), microcontrollers
-
-APIs & System Integration: REST APIs, automation scripts
-
-🔹 What I Do
-
-✔ Automate data collection and analysis with Python & APIs
-
-✔ Build interactive dashboards for decision-making
-
-✔ Develop predictive models & signal processing algorithms
-
-✔ Work with electrical systems, IoT, and hardware development
-
-💡 Always looking for new challenges and projects where I can apply engineering, software development, and data science to create innovative and efficient solutions.
+Innovation: Deep Learning model optimization and computer vision applied to data efficiency.
   
   ##
  
