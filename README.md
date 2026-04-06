@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/Cristiano-Langner">
     <img height="180em" src="https://github-readme-stats-two-topaz-31.vercel.app/api/top-langs/?username=Cristiano-Langner&layout=compact&langs_count=10&theme=dracula&hide_border=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-two-topaz-31.vercel.app/api?username=Cristiano-Langner&show_icons=true&theme=dracula&count_private=true&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats-two-topaz-31.vercel.app/api?username=Cristiano-Langner&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true"/>
   </a>
 </div>
 <div style="display: inline-block"><br>
